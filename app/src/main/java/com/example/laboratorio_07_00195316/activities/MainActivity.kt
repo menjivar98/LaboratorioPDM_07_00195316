@@ -1,7 +1,8 @@
-package com.example.laboratorio_07_00195316
+package com.example.laboratorio_07_00195316.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.laboratorio_07_00195316.R
 
 class MainActivity : AppCompatActivity() {
 
